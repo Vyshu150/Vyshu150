@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VYSHNAVI LAKSHMISETTY</h1>
-<h3 align="center">Seeking an internship/co-op for the Summer 2023 in the area of Computer Programming.![image](https://github.com/Vyshu150/Vyshu150/assets/142756609/2be28d4a-ed35-44d6-81ab-7fbc4528d001)
+<h3 align="center">Seeking an internship/co-op for the Summer 2023 in the area of Computer Programming
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyshu150&label=Profile%20views&color=0e75b6&style=flat" alt="vyshu150" /> </p>
